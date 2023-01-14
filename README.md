@@ -1,0 +1,2 @@
+# istamod
+Aerolnista.json
